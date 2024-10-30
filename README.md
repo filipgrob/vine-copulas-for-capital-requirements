@@ -5,7 +5,7 @@ system. Recent geopolitical shocks including the war in Ukraine, the Israeli-Pal
 tensions on supply chains in the Red Sea, in parallel with the Quantitative Tightening monetary
 policies of central banks are putting its robustness under pressure. Being able to give an estimate
 of risk and interdependencies within investment portfolios allows one to have a clear vision of
-costs-benefits in terms of risk-rewards. This Master's Degree thesis proposes the use of copula theory both to
+costs-benefits in terms of risk-rewards. This Master's Degree thesis developed on R proposes the use of copula theory both to
 address the problem of studying assets dependencies and predicting capital requirements in the
 form of risk measures. The class of Vine copulas is presented, which aims to overcome the limits
 linked to the adoption of a particular family of copulas in addressing the cited topics. This class
